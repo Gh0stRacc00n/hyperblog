@@ -1,5 +1,22 @@
 body{
-    text-align: center;
-    font-family: "Arial";
-    color: deeppink;
+    /* text-align: center; */
+    font-family: "Sans-Serif";
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+main{
+    width: 70%;
+    margin: 0 auto;
+    padding: 2em;
+    border: 1px solid #333; 
+}
+
+h1{
+    margin: 0;
+}
+
+p{
+    margin: 0;
 }
