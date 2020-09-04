@@ -15,8 +15,8 @@ main{
 }
 
 header{
-    color: #FFF;
-    background-color: rgb(48, 75, 46);
+    color: #EEE;
+    background-color: rgb(32, 4, 172);
     padding: 2em;
 }
 
@@ -29,7 +29,7 @@ header h1{
 header h1::after{
     content: "";
     margin: 0 0.5em;
-    border-right: 2px solid #fff;
+    border-right: 2px solid #EEE;
 }
 
 header span{
@@ -45,4 +45,11 @@ section{
     margin-right: 10px;
     width: 40px;
     vertical-align: bottom;
+}
+
+footer {
+    padding: 1em;
+    background-color: #333;
+    color: #EEE;
+    text-align: center;
 }
