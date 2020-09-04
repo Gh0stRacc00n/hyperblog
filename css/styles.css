@@ -14,7 +14,7 @@ main{
 }
 
 header{
-    color: #FFF;
+    color: #EEE;
     background-color: rgb(32, 4, 172);
     padding: 2em;
 }
@@ -28,10 +28,17 @@ header h1{
 header h1::after{
     content: "";
     margin: 0 0.5em;
-    border-right: 2px solid #fff;
+    border-right: 2px solid #EEE;
 }
 
 
 section{
     padding: 1em 2em;
+}
+
+footer {
+    padding: 1em;
+    background-color: #333;
+    color: #EEE;
+    text-align: center;
 }
