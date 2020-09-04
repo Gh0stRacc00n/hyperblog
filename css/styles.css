@@ -1,6 +1,7 @@
 body{
     /* text-align: center; */
-    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-family: "Sans-Serif";
     margin: 0;
     padding: 0;
     color: #333;
@@ -9,14 +10,28 @@ body{
 main{
     width: 70%;
     margin: 0 auto;
-    padding: 2em;
     border: 1px solid #333; 
 }
 
-h1{
+header{
+    color: #FFF;
+    background-color: rgb(32, 4, 172);
+    padding: 2em;
+}
+
+header h1{
+    display: inline-block;
+    font-weight: bolder;
     margin: 0;
 }
 
-p{
-    margin: 0;
+header h1::after{
+    content: "";
+    margin: 0 0.5em;
+    border-right: 2px solid #fff;
+}
+
+
+section{
+    padding: 1em 2em;
 }
