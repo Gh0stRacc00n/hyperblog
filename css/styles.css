@@ -5,12 +5,13 @@ body{
     margin: 0;
     padding: 0;
     color: #333;
+    background-color: #222;
 }
 
 main{
     width: 70%;
     margin: 0 auto;
-    border: 1px solid #333; 
+    border: 1px solid #EEE; 
 }
 
 header{
@@ -31,7 +32,17 @@ header h1::after{
     border-right: 2px solid #fff;
 }
 
+header span{
+    vertical-align: super;
+}
 
 section{
     padding: 1em 2em;
+    background-color: #EEE;
+}
+
+.logo{
+    margin-right: 10px;
+    width: 40px;
+    vertical-align: bottom;
 }
