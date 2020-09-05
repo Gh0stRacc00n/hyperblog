@@ -13,6 +13,6 @@
 * Las personalidades múltiples de Freddy
 
 Experimento1
+Experimento 2
 
-Y bueno, como un muy amable recordatorio ** Este Readme.md es un chiste** y diseñado para el ejemplo.  Si llegaste acá ¡NO TE LO TOMES EN SERIO! mejor ve a ver el **[curso de Git y GitHub](http://https://platzi.com/cursos/git-github/ "curso de Git y GitHub")** u otros cursos en **[Platzi](http://platzi.com "Platzi")**
-master 2
+Y bueno, como un muy amable recordatorio ** Este Readme.md es un chiste** y diseñado para el ejemplo.  Si llegaste acá ¡NO TE LO TOMES EN SERIO! mejor ve a ver el **[curso de Git y GitHub](http://https://platzi.com/cursos/git-github/ "curso de Git y GitHub")** u otros cursos en **[Platzi](http://platzi.com "Platzi")**master 2
